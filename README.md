@@ -1,16 +1,49 @@
-## Hi there 👋
+[README.md](https://github.com/user-attachments/files/25559833/README.md)
 
-<!--
-**EnkryptedV1rus/EnkryptedV1rus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+███╗   ██╗███████╗██╗  ██╗ ██████╗
+████╗  ██║██╔════╝╚██╗██╔╝██╔═══██╗
+██╔██╗ ██║█████╗   ╚███╔╝ ██║   ██║
+██║╚██╗██║██╔══╝   ██╔██╗ ██║   ██║
+██║ ╚████║███████╗██╔╝ ██╗╚██████╔╝
+╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝
+```
+
+*student. builder. always learning.*
+
+<br/>
+
+---
+
+### about
+
+hey, i'm **Nexo** — a student passionate about exploring how things work and building things that matter.  
+currently learning, breaking stuff, and putting it back together.
+
+---
+
+### currently
+
+```yaml
+status:      learning in public
+focus:       growing my skills one commit at a time
+mood:        curious
+```
+
+---
+
+### reach me
+
+[![GitHub](https://img.shields.io/badge/github-%40EnkryptedV1rus-181717?style=flat-square&logo=github)](https://github.com/EnkryptedV1rus)
+
+---
+
+*"the best way to learn is to build."*
+
+<br/>
+
+</div>
