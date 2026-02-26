@@ -19,6 +19,7 @@
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5\&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css\&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=fff)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 
 ## 🛠️ What I Use
 
