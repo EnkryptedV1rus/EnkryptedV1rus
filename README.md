@@ -30,7 +30,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EnkryptedV1rus&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=EnkryptedV1rus&theme=shadow-blue&hide_border=true" width="48%" />
 
 <br><br>
 
