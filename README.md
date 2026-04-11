@@ -28,3 +28,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EnkryptedV1rus&theme=black-ice)](https://git.io/streak-stats)
 </div>
+
+<div align="center">
+  
+## Contact
+ 
+  Email: itzn3xo@proton.me
+
