@@ -1,13 +1,10 @@
 </div>
 
 <div align="center">
-  <pre>
- __   __     ______     __  __     ______    
-/\ "-.\ \   /\  ___\   /\_\_\_\   /\  __ \   
-\ \ \-.  \  \ \  __\   \/_/\_\/_  \ \ \/\ \  
- \ \_\\"\_\  \ \_____\   /\_\/\_\  \ \_____\ 
-  \/_/ \/_/   \/_____/   \/_/\/_/   \/_____/ 
-  </pre>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=gradient" alt="Header banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Python+Developer;Discord+Bot+Developer;Web+Developer;Open+Source+Creator;Always+Learning+Something+New" alt="Typing SVG" />
+</div>
+<br/>
 </div>
 
 <div align="center">
@@ -26,12 +23,12 @@
 
 ## Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EnkryptedV1rus&theme=black-ice)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=itz-nexo&theme=shadow-brown&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
   
 ## Contact
  
-  Email: itzn3xo@proton.me
+  Email: Not Available Right Now
 
