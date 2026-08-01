@@ -19,7 +19,14 @@
 
 ## Contact
 
-Email: @itzn3xo@protonmail.me
-Discord: @4peu
+<p align="center">
+  <a href="mailto:itzn3xo@protonmail.me">
+    <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
 
-</div>
+  <a href="https://github.com/itz-nexo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <img src="https://img.shields.io/badge/Discord-discord.com/users/1514840322004226159-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
