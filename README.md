@@ -20,13 +20,13 @@
 ## Contact
 
 <p align="center">
-  <a href="mailto:itzn3xo@protonmail.me">
-    <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
-  </a>
 
-  <a href="https://github.com/itz-nexo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="mailto:itzn3xo@protonmail.me">
+  <img src="https://img.shields.io/badge/ProtonMail-itzn3xo%40protonmail.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
+</a>
 
-  <img src="https://img.shields.io/badge/Discord-discord.com/users/1514840322004226159-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<a href="https://discord.com/users/1514840322004226159">
+  <img src="https://img.shields.io/badge/Discord-@4peu-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
 </p>
