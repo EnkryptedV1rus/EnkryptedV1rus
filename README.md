@@ -2,20 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=gradient" alt="Header banner" />
 
-<br/><br/>
-## Languages
+# < Raze />
 
 <img src="https://skillicons.dev/icons?i=py,js,ts,lua,html,css,nodejs,git,vscode,github&theme=dark" />
 
 ## Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=itz-nexo&theme=shadow-brown&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=itz-nexo&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Contributions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itz-nexo/itz-nexo/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itz-nexo&theme=github-light&hide_border=true" />
 
 ## Contact
 
