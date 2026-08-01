@@ -12,7 +12,7 @@
 
 ## Contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itz-nexo&theme=github-light&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itz-nexo&theme=github-dark&hide_border=true" />
 
 ## Contact
 
