@@ -1,29 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=gradient" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Raze&fontSize=60&fontColor=ffffff&color=0:000000,100:5865F2&animation=fadeIn&fontAlignY=35" alt="Header banner" />
 
-# < Raze />
+## Languages & Resources
+<img src="https://skillicons.dev/icons?i=py,js,ts,lua,html,css,nodejs,sqlite,git,vscode,github,linux&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,lua,html,css,nodejs,git,vscode,github&theme=dark" />
+</div>
 
-## Stats
+<br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=itz-nexo&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
 
-## Contributions
+<img src="https://media.tenor.com/S1_EANGlMJoAAAAM/hello-hi.gif" width="180" />
+
+## My Contributions
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raze331&theme=github-dark&hide_border=true" />
 
-## Contact
+## Discord Profile
 
-<p align="center">
-
-<a href="mailto:itzn3xo@protonmail.me">
-  <img src="https://img.shields.io/badge/ProtonMail-itzn3xo%40protonmail.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
+<a href="https://discord.com/users/1535132507413020674">
+    <img src="https://lanyard.cnrad.dev/api/1535132507413020674?theme=dark&bg=0d1117&borderRadius=15px&animated=true&idleMessage=In%20the%20sky,%20there%20is%20an%20angel%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)&hideDiscrim=true" />
 </a>
 
-<a href="https://discord.com/users/1514840322004226159">
-  <img src="https://img.shields.io/badge/Discord-@4peu-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:5865F2,100:000000" />
 
-</p>
+</div>
